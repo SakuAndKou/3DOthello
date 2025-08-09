@@ -1,0 +1,3 @@
+D:/programming/C++/NextDXLIB/build/CMakeFiles/main.dir
+D:/programming/C++/NextDXLIB/build/CMakeFiles/edit_cache.dir
+D:/programming/C++/NextDXLIB/build/CMakeFiles/rebuild_cache.dir
