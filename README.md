@@ -1,7 +1,9 @@
+ビルドしなくてもmain.exeはbuildファイルの中にあります
+
 ## 準備
 cmakeとコンパイラを用意する。\
 ただしコンパイラは
->https://github.com/niXman/mingw-builds-binaries/releasesのRelease of 13.1.0-rt_v11-rev1のx86_64-13.1.0-release-posix-seh-msvcrt-rt_v11-rev1.7zをダウンロードし展開したものを用いる
+>https://github.com/niXman/mingw-builds-binaries/releases の Release of 13.1.0-rt_v11-rev1のx86_64-13.1.0-release-posix-seh-msvcrt-rt_v11-rev1.7zをダウンロードし展開したものを用いる
 
 ## ビルド方法
 Windows pwsh&Cドライブ直下を想定
@@ -40,6 +42,4 @@ WASDで移動(shift+wsで上下移動)\
 矢印キーかマウスのホイールを押し込んでドラックすることで視点移動\
 マウスのホイールを回すことで奥行きの指定(赤い球)\
 左クリックで駒を置く
-
-
 
