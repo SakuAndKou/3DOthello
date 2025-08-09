@@ -33,8 +33,8 @@ C:\x86_64-13.1.0-release-posix-seh-msvcrt-rt_v11-rev1\mingw64\bin\mingw32-make.e
 ゲーム画面
 |   |   |
 |---|---|
-| ![StartScene](image\image.png)  |  ![SelectScene](image\image-1.png) |
-| ![GameScene](image\image-2.png)  | ![GameScene2](image\image-3.png)  |
+| ![StartScene](image/image.png)  |  ![SelectScene](image/image-1.png) |
+| ![GameScene](image/image-2.png)  | ![GameScene2](image/image-3.png)  |
 ## 操作方法
 WASDで移動(shift+wsで上下移動)\
 矢印キーかマウスのホイールを押し込んでドラックすることで視点移動\
